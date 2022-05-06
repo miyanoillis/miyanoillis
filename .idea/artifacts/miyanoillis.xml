@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="miyanoillis">
+    <output-path>$PROJECT_DIR$/out/artifacts/miyanoillis</output-path>
+    <root id="archive" name="miyanoillis.jar">
+      <element id="archive" name="miyanoillis.jar">
+        <element id="module-output" name="miyanoillis" />
+        <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>
