@@ -6,19 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="911470c4-fdae-4ca1-ac73-6bfed6758b0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/miyanoillis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miyanoillis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miyanoillis/neko/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miyanoillis/neko/ansicolor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miyanoillis/neko/playerjoinEvent.java" afterDir="false" />
-    </list>
+    <list default="true" id="911470c4-fdae-4ca1-ac73-6bfed6758b0d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
